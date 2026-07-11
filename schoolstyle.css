@@ -1,0 +1,16 @@
+body{
+    background-image: url("bg.jpg");
+}
+.info {
+    overflow: hidden;
+    background-color: #073a20;
+}
+
+.info a {
+    float: left;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px 20px;
+    text-decoration: none;
+    font-size: 23px;
+}
